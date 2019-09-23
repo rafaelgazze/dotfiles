@@ -12,11 +12,7 @@ PLUGINS=(
   "tpope/vim-pathogen"
   "terryma/vim-multiple-cursors"
   "airblade/vim-gitgutter"
-  "leafgarland/typescript-vim"
-  "bigfish/vim-js-context-coloring"
-  "neoclide/vim-jsx-improve"
-  "posva/vim-vue"
-  "Quramy/vim-js-pretty-template"
+  "fatih/vim-go"
 )
 
 mkdir -p $PLUGIN_DIR
